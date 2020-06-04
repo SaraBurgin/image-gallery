@@ -1,0 +1,35 @@
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  background-color: #c9c9c9;
+  color: white;
+}
+
+.navbar {
+  background-color: aqua;
+}
+
+/* Gives the background a color */
+.navbar {
+  background-color: #800080;
+}
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+button {
+  background-color: white;
+}

@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/SaraBurgin/image-gallery.git",
   "author": "Sara <saragonzalezburgin@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0"
+  }
 }
