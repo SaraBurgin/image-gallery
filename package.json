@@ -1,7 +1,7 @@
 {
   "name": "image-gallery",
   "version": "1.0.0",
-  "main": "gallery.html",
+  "main": "/public/gallery.html",
   "repository": "https://github.com/SaraBurgin/image-gallery.git",
   "author": "Sara <saragonzalezburgin@hotmail.com>",
   "license": "MIT",
