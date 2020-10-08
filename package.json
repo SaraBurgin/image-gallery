@@ -1,15 +1,12 @@
 {
   "name": "image-gallery",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "gallery.html",
   "repository": "https://github.com/SaraBurgin/image-gallery.git",
   "author": "Sara <saragonzalezburgin@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
     "bootstrap": "^4.5.0"
-  },
-  "scripts": {
-    "build": "build"
   }
 }
